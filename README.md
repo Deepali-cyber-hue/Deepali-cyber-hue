@@ -1,4 +1,4 @@
-# Hi, I'm Deepali 👋
+# Hi, I'm Deepali 
 
 ### Data Analyst | Data Engineer | AI & Analytics Enthusiast
 
