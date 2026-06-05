@@ -49,20 +49,6 @@ Key Contributions:
 - Machine learning assisted image analysis
 - OpenCV based scientific data extraction
 - High-speed video analysis using Phantom software
-## 📝 Publications
-
-### Heat Transfer Enhancement by Drop Impact onto a Nanotextured Superheated Surface
-
-**Co-Author** | Archives of Thermodynamics (2026)
-
-Published research focused on advanced thermal management systems for next-generation electronics through nanostructured surface engineering and heat transfer enhancement.
-
-Key Contributions:
-- Scientific data analysis and interpretation
-- Image processing of high-speed experimental data
-- Bubble dynamics and heat transfer characterization
-- Nanofiber-textured surface performance evaluation
-- Experimental validation and research documentation
 
 ### Flame Retardancy Research
 
@@ -79,6 +65,20 @@ Research Areas:
 - Material characterization
 
 ---
+## 📝 Publications
+
+### Heat Transfer Enhancement by Drop Impact onto a Nanotextured Superheated Surface
+
+**Co-Author** | Archives of Thermodynamics (2026)
+
+Published research focused on advanced thermal management systems for next-generation electronics through nanostructured surface engineering and heat transfer enhancement.
+
+Key Contributions:
+- Scientific data analysis and interpretation
+- Image processing of high-speed experimental data
+- Bubble dynamics and heat transfer characterization
+- Nanofiber-textured surface performance evaluation
+- Experimental validation and research documentation
 
 ## 💻 Technical Stack
 
