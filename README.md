@@ -8,7 +8,7 @@ My work spans data engineering pipelines, business intelligence dashboards, mach
 
 ---
 
-## 🎓 Education
+## Education
 
 **Indian Institute of Technology Delhi (IIT Delhi)**
 
@@ -23,7 +23,7 @@ Relevant Coursework:
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - Build scalable ETL/ELT data pipelines
 - Design analytical data models
@@ -35,7 +35,7 @@ Relevant Coursework:
 
 ---
 
-## 🔬 Research Experience
+## Research Experience
 
 ### Image Processing Research | IIT Delhi
 
@@ -65,7 +65,7 @@ Research Areas:
 - Material characterization
 
 ---
-## 📝 Publications
+## Publications
 
 ### Heat Transfer Enhancement by Drop Impact onto a Nanotextured Superheated Surface
 
@@ -80,7 +80,7 @@ Key Contributions:
 - Nanofiber-textured surface performance evaluation
 - Experimental validation and research documentation
 
-## 💻 Technical Stack
+## Technical Stack
 
 ### Languages
 
@@ -116,7 +116,7 @@ Key Contributions:
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 
 - Data Engineering
 - Analytics Engineering
